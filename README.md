@@ -7,7 +7,7 @@ Compact real-time viewer for Polymarket prediction markets.
 - Search by keyword
 - Sort by volume, Yes chance (high/low), or newest
 - Clean dark theme
-- Works everywhere (uses public API — no blocked sites needed)
+- Works everywhere ( no blocked sites needed)
 
 ### Live Hosted Version (Always Running)
 Try it online instantly:  
